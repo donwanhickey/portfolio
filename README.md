@@ -28,11 +28,11 @@ At least one bullet point list (<ul> with <li>).
 
 At least one numbered list (<ol> with <li>).
 
-One centered heading (use inline CSS or center using a block element).
+# One centered heading (use inline CSS or center using a block element).
 
 An input box (<input>) and a button (<button>).
 
-A link to another HTML page within your project.
+A # link to another HTML page within your project.
 
 (You'll need to create at least one additional .html file.)
 
